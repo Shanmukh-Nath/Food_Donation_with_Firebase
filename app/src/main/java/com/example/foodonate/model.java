@@ -1,4 +1,4 @@
-package com.example.aahaarapp;
+package com.example.foodonate;
 
 public class model {
     String name,type,description,userid;

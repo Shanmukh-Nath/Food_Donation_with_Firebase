@@ -1,4 +1,4 @@
-package com.example.aahaarapp
+package com.example.foodonate
 
 import org.junit.Test
 

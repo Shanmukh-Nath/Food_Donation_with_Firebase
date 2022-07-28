@@ -1,4 +1,4 @@
-package com.example.aahaarapp;
+package com.example.foodonate;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
